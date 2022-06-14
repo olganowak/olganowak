@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Data Analyst from Berlin</h3>
 <h3 align="center">:butterfly:</h3>
 
-- :art: I’m currently working on [F A P ⓒ](https://fapc.herokuapp.com/): Feel free to check it out if you like art and you want to see if you can beat our Deep Learning Model in guessing the genre of a painting! The Github Repository for the project is called **smArt**
+- :art: I’m currently working on [F A P ⓒ](https://fapc.herokuapp.com/): Feel free to check it out if you like art and you want to see if you can beat our Deep Learning Model in guessing the genre of a painting! The Github Repositories for the project are called **smArt** and **smArtWebsite**
 
 - 🌱 I’m currently learning about **Convolutional Neural Networks** and improving my **SQL**
 
