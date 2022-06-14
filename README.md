@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [F A P ⓒ](https://fapc.herokuapp.com/): Feel free to check it out if you like art and you want to see if you can beat our Deep Learning Model in guessing the genre of a painting! 
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning about **Convolutional Neural Networks** and improving my **SQL**
 
-- 💬 Ask me about **Le Wagon**
+- 💬 Ask me about my experience at **Le Wagon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
