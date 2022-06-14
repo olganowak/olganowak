@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Olga</h1>
 <h3 align="center">An aspiring Data Analyst from Berlin</h3>
+<h3 align="center">:butterfly:</h3>
 
-- 🔭 I’m currently working on [F A P ⓒ](https://fapc.herokuapp.com/): Feel free to check it out if you like art and you want to see if you can beat our Deep Learning Model in guessing the genre of a painting! 
+- :art: I’m currently working on [F A P ⓒ](https://fapc.herokuapp.com/): Feel free to check it out if you like art and you want to see if you can beat our Deep Learning Model in guessing the genre of a painting! The Github Repository for the project is called **smArt**
 
 - 🌱 I’m currently learning about **Convolutional Neural Networks** and improving my **SQL**
 
-- 💬 Ask me about my experience at **Le Wagon**
+- 💬 Ask me about my experience at **Le Wagon**, or if you want tipps for **Berlin**
+
+- :envelope_with_arrow: Feel free to contact me in the following **Languages:** :de: German, :gb: English, :poland: Polish
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
