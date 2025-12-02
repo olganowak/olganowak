@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Olga</h1>
-<h3 align="center">An aspiring Data Analyst from Berlin</h3>
+<h3 align="center">Marketing Analyst from Munich</h3>
 <h3 align="center">:butterfly:</h3>
-
-- :art: Together with [@KiKar31](https://github.com/KiKar31), [@qnguyen-gh](https://github.com/qnguyen-gh) and [@GaOlMe](https://github.com/GaOlMe) I just worked on [F A P ⓒ](https://fapc.herokuapp.com/): Feel free to check it out if you like art and you want to see if you can beat our Deep Learning Model in guessing the genre of a painting! The Github Repositories for the project are called **smArt** and **smArtWebsite**
 
 - 🌱 I’m currently learning about **Convolutional Neural Networks** and improving my **SQL**
 
-- 💬 Ask me about my experience at **Le Wagon**, or if you want tipps for **Berlin**
+- 💬 Ask me about my experience at **Le Wagon**
 
 - :envelope_with_arrow: Feel free to contact me in the following **Languages:** :de: German, :gb: English, :poland: Polish
 
